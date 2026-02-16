@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/kargo-takip", "destination": "/api/kargo-takip" }
+  ]
+}
